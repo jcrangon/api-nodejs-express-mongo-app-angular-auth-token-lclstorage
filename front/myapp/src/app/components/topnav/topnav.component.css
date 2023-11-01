@@ -1,0 +1,18 @@
+a {
+  color: white;
+}
+
+a.active {
+  color: white!important;
+  font-weight: 600;
+}
+
+.navbar-toggler {
+  background: #fff;
+  box-shadow: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+

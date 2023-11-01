@@ -1,0 +1,11 @@
+git clone https://github.com/SinghDigamber/node-token-based-authentication.git
+
+start a terminal inside the folder
+
+npm install
+
+npm install nodemon --save-dev
+
+npm install bcrypt
+
+npx nodemon server
